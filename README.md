@@ -1,4 +1,4 @@
-# MEMORY GAME (USING HTML,JS,CSS)
+# MEMORY GAME (USING HTML,JS,CSS )
 
 > [VIEW THE DEMO](https://tejascj.github.io/memory_game/)
 
